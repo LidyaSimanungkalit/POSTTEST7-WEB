@@ -1,0 +1,51 @@
+h2{
+   
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #010101 ;
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    color:rgb(19, 20, 20);
+}
+.input {
+    font-family: 'Times New Roman', Times, serif;
+ 
+    color: #010101 ;
+/*     
+    margin-right: 300px;
+    margin-bottom: 10px; */
+    color:rgb(19, 20, 20);
+    width: 500px !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+   
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 20px;
+    /* text-align: center; */
+    padding: 12px 20px;
+    margin-top: 30px;
+    margin-left:  150px;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+.login{
+    margin-top: 10px;
+    margin-left:  350px;
+    border: solid 1px #bec6d0 !important;
+   
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px; 
+    padding: 5px;
+    border-radius: 10px; 
+    cursor: pointer;
+
+}
+p{
+    margin-top: 5px;
+    margin-left:  310px;
+
+}
+a{
+    margin-top: 5px;
+    margin-left:  310px;
+}

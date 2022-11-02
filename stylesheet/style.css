@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+.header{
+    background-color: #ffffff;
+    height: 90px;
+    color: #1F96FF ; }
+.header2{
+   
+    background-color: #C4E1FF;
+    height: 50px;
+    color: #fff;}
+li{
+    list-style: none;}
+.header-logo{
+    font-size:36px;
+    float: left;
+    padding: 20px 40px;
+}
+.header-logo2{
+    font-family: 'Nunito', sans-serif;
+    font-size:15px;
+    float: left;
+    height : 30px;
+    padding: 10px 30px;
+    /* padding-top : 15px; */
+}
+.header-list li{
+    display: inline-block;
+    float: left;
+    padding : 33px 20px;
+    font-size:small;
+    font-family: 'Nunito', sans-serif; }
+
+/* .header-list2 li{
+    float: right;
+    margin : 33px 33px 10px 33px;
+    font-size: medium;
+    font-family: 'Nunito', sans-serif;} */
+.admn{
+        float: right;
+        margin : 10px 33px 10px 0px;
+        font-size: medium;
+        font-family: 'Nunito', sans-serif;}
+.lgn{
+    float: right;
+    margin-top : 36px ;
+    margin-left: 100px;
+    font-size: medium;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+.search{
+   
+    float: left;
+    padding-top : 10px;
+    border-radius: 30px;}
+    
+.srch{ 
+   
+    border: 1px;
+    display: inline-block;
+    width: 400px; 
+    height:30px; 
+    border: 1px solid rgb(8, 208, 172);
+    
+    margin-top: 10px;
+      }
+.placholder{
+    
+    border: 1px solid rgb(8, 208, 172);
+
+}
+
+ul li a{
+    text-decoration: rgb(34, 179, 246);
+    font-weight: bold;
+    color:#1F96FF;}
+ul li a:hover{
+    color:#12c9cf;}
+body{
+    background-color: white;
+    color: black;
+
+}
+
+.main{
+   background-color: #ffffff;} 
+/* .dark-mode{
+    background-color: rgb(155, 144, 144);
+    
+}  */
+
+.contents{
+        padding-top: 0px;
+        margin-top: 0px;
+        padding-bottom: 8px;
+        padding-left: 0px;
+        margin-bottom: 0px;}
+#btn-info{
+    margin-left: 560 px;
+        
+        }
+.section-title{
+    padding-top: 0px 0px 0px 10px;
+   
+    border-bottom: 2px solid #dee7ec;
+    padding-bottom: 8px;
+    padding-left: 0px;
+    margin-bottom: 0px;}
+.section-title a{
+    text-decoration: rgb(166, 185, 194);
+    font-weight: bold;
+    color:#505091;
+    font-family: 'Nunito', sans-serif;
+    margin-right: 200px;}
+a:hover{
+    color:#12c9cf;}
+.kotak{
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;}
+.kotak1{
+    width:80px;
+    height:200px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    border:1px solid rgba(230, 222, 222, 0.929);
+    padding: 50px; 
+     margin :3px;
+    background: linear-gradient();
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;} 
+/* editan untuk isi kotak 1 */
+.logo img{
+    width:60%; }
+.lokasi img{
+    width:20% ;
+    margin-left: 0px;}
+.pt{
+    color: rgb(220, 210, 210);}
+.posisi{
+    color: rgb(24, 205, 87);}
+.lokasi p{
+    /* padding:0px 3px 800px 0px ; */
+    /* margin-left: 500px; */
+    float: right;}
+.gloc{
+    margin-right: 5px;
+    color: #e3e3f3;}
+.lokasi{
+    font-size: 12;
+    color: #4a4a4a;
+    font-size: 12px;
+    font-family: "ProximaNova-Regular", Helvetica, Arial, sans-serif;}
+/* editan untuk about me */
+#aboutme{
+    height: 270px;
+    background: #ffffff;
+}
+
+h1{
+    /* float: left; */
+    font-size: 30px;
+    border-bottom: 2px solid #dee7ec;
+    margin-top: 20px;
+    margin-bottom: 20px;
+color:#1F96FF ; }
+
+.potoku img{
+    padding-right: 0px;
+     width:100px;
+     /* margin-right:10px;   */}
+
+    
+#data td{
+        font-size: 15px;
+       
+        }
+    
+/* untuk padding nama */
+#nama pre{
+    font-family: 'Nunito', sans-serif;
+    padding-left: 60px;}
+
+/*  size untuk namaaaaa di aboutme */
+
+
+
+
+    /* fooooter */
+footer{
+    background-color: #C4E1FF;
+    color:  #1F96FF;
+    height: 150px;}
+.footer-logo{
+    font-size:32px;
+    float: left;
+}
+.footer-list{
+    float: right;}
+.footer-list li{
+    padding-bottom: 20px;
+    padding-right: 10px;;
+    
+}

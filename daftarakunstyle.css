@@ -1,0 +1,96 @@
+.dftr{
+    margin :70px 200px 70px 400px;
+    width:350px;
+    height:500px;
+    float: left;
+    align-items: center;
+    border: 4px solid rgba(211, 222, 221, 0.929);
+    background: linear-gradient();
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 7px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #1F96FF ;
+}
+#nama{
+    width: 70% !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    float: left;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 7px;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+    box-sizing: border-box;
+ 
+  
+   
+ 
+}
+#username{
+    width: 70% !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    float: left;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 7px;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+    box-sizing: border-box;
+ 
+ 
+}
+#emaildaftar{
+    width: 70% !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    float: left;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 7px;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+    box-sizing: border-box;
+ 
+ 
+ 
+}
+#pwddaftar{
+    width: 70% !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    float: left;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 7px;
+    text-align: center;
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px;
+    box-sizing: border-box;
+ 
+ 
+}
+#masuk{
+    margin-top : 35px;
+    padding: 12px 20px;
+    margin: 8px 50px 8px 130px;
+    background-color:  #1F96FF ;
+    border: solid 1px #bec6d0 !important;
+    float: left;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 7px;
+
+}
+input[type=text]:focus {
+    border: 3px solid rgb(72, 231, 151);
+  }
